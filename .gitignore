@@ -1,6 +1,0 @@
-build/
-*.apk
-*.class
-*.jar
-.gradle/
-.idea/
